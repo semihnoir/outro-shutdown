@@ -6,6 +6,7 @@ Tek yapmanız gereken PC'nizin işlemci mimarisine uygun exe'yi çalıştırmak 
 Daha sonrasında 14 saniyelik geri sayımdan sonra sisteminiz kapatılacaktır.
 
 
+
 Ayrıca Teşekkürler
 
 İkon dosyası : https://www.freeiconspng.com/images/windows-icon-png

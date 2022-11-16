@@ -2,7 +2,7 @@
  PC'nizi basit bir Python Outro Meme kodu ile kapatın.
 
 Nasıl Kullanılır?
-Tek yapmanız gereken PC'nizin işlemci mimarisine uygun exe'yi çalıştırmak (Örneğin 32 bit ise x86,64 bit ise x64 olanı çalıştırın).
+Tek yapmanız gereken PC'nizin işlemci mimarisine uygun klasördeki "Outro ile Kapat" adlı exe'yi çalıştırmak (Örneğin 32 bit ise x86,64 bit ise x64 olanı çalıştırın).
 Daha sonrasında 14 saniyelik geri sayımdan sonra sisteminiz kapatılacaktır.
 
 
